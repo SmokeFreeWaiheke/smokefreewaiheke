@@ -1,8 +1,8 @@
-baseURL = "http://smokefreewaiheke.org.nz/"
+baseURL = "//smokefreewaiheke.org.nz/"
 languageCode = "en-us"
 title = "SmokeFree Waiheke"
 theme = "ananke"
-resourceDir = "../resources"
+# resourceDir = "../resources"
 
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
