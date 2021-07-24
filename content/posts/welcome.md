@@ -21,3 +21,14 @@ In recent years we have seen some legal action around places like condos, and re
 Tobacco smoke is a notable exception from existing laws and bylaws (in various countries) that prohibit the burning of treated wood that contain many of the same poisonous chemicals to tobacco smoke; that require wood fires to meet pollution requirements and those that define nuisance for other irritants that cross boundaries. e.g. loud music, bonfires, odours etc.
 
 Some families still expose their children and pets to second hand smoke causing long term health issues. - What can those affected do?
+
+# Get involved
+
+* Join the SmokeFreeWaiheke Community Action Group: https://www.facebook.com/groups/3019798801576872
+* Sign the petition to parliament: https://shorturl.at/pvBGY
+
+Find out more at:
+
+* www.smokefree.org.nz
+* Read the SmokeFree2025 Action Plan - https://consult.health.govt.nz/tobacco-control/smokefree2025-actionplan/
+  
