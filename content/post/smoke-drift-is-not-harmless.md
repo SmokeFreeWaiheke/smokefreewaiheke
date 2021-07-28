@@ -2,9 +2,8 @@
 title: "Smoke drift is not harmless"
 date: 2021-07-24T18:23:13+12:00
 draft: false
+tags: ["health"]
 ---
-
-# Smoke drift is not harmless!
 
 ## Make it the responsibility of the smoker to prevent smoke drift at all times and places
 

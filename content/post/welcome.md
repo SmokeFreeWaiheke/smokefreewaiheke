@@ -4,7 +4,7 @@ date: 2021-07-12T18:23:13+12:00
 draft: false
 ---
 
-## You are responsible for the impact of your tobacco smoke
+## Smokers need to be responsible for the impact of their tobacco smoke
 
 This community is for anyone affected by Second Hand Smoke, Smoke Drift, vapes, etc. In fact any situation where someone else's voluntary, recreational activities create pollution that affects your own personal space.
 
@@ -22,7 +22,7 @@ Tobacco smoke is a notable exception from existing laws and bylaws (in various c
 
 Some families still expose their children and pets to second hand smoke causing long term health issues. - What can those affected do?
 
-# Get involved
+## Get involved
 
 * Join the SmokeFreeWaiheke Community Action Group: https://www.facebook.com/groups/3019798801576872
 * Sign the petition to parliament: https://shorturl.at/pvBGY
@@ -31,4 +31,3 @@ Find out more at:
 
 * www.smokefree.org.nz
 * Read the SmokeFree2025 Action Plan - https://consult.health.govt.nz/tobacco-control/smokefree2025-actionplan/
-  
