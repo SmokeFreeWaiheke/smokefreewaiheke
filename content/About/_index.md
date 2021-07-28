@@ -6,7 +6,12 @@ featured_image: '/images/smoke-banner.jpg'
 <div class="nested-links f5 lh-copy nested-copy-line-height">
 ## Smokers need to be responsible for the impact of their tobacco smoke
 
-This community is for anyone affected by Second Hand Smoke, Smoke Drift, vapes, etc. In fact any situation where someone else's voluntary, recreational activities create pollution that affects your own personal space.
+Lets be clear, our concern is about _everyone's_ health. Current government and council policy is focused on reducing overall smoking by:
+
+* getting people to quit
+* making tobacco products harder to obtain.
+
+However we feel that this doesn't help the 85% of the population who do not smoke, don't want to be affected by other people's smoke and have no powers to prevent people smoking in public or preventing smoke from drifting into their homes. 
 
 This is not a place to beat up on smokers as people. We know they have been addicted to nicotine by giant commercial interests and its very hard to give up - we get that. There are lots of resources for people who want to quit. However, There are very few resources for people whose lives are negatively impacted by second hand smoke. Some feedback I have had is that authorities either don't care, or just shrug that this is in the too hard basket. This is a place for people who care about how you've been affected by SHS.
 
