@@ -2,8 +2,12 @@
 {{/*
   This template is the same as the default and is here to demonstrate that if you have a content directory called "post" you can create a layouts directory, just for that section.
    */}}
-  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
+  <article 
+    class="pa3 pa4-ns nested-copy-line-height nested-img"
+    style="background-image: url('/images/smoke-banner-inverted.jpg'); background-repeat: no-repeat;  background-size: cover; "
+  >
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray bg-white o-80"
+    >
       {{ .Content }}
     </section>
     <aside class="flex-ns flex-wrap justify-around mt5">
